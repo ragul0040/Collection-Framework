@@ -1,0 +1,25 @@
+LinkedList class:-
+
+
+public class LinkedList
+extends AbstractSequentialList
+implements List, Deque, Cloneable, Serializable
+
+
+package: java.util.LinkedList
+
+
+
+LinkesList:-
+   1.Java LinkedList class uses a doubly linked list to store the elements. 
+   2.It provides a linked-list data structure. 
+
+
+
+
+The important points about Java LinkedList are:-
+   1.Java LinkedList class can contain duplicate elements.
+   2.Java LinkedList class maintains insertion order.
+   3.Java LinkedList class is non synchronized.
+   4.In Java LinkedList class, manipulation is fast because no shifting needs to occur.
+   5.Java LinkedList class can be used as a list, stack or queue.
