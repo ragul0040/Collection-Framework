@@ -1,0 +1,27 @@
+
+Class Properties:-
+    1.Properties is a subclass of Hashtable
+    2.The properties object contains key and value pair both as a string
+    3.Properties class is used by many other Java classes
+
+For Eg:-
+ 1.Type of object returned by System.getProperties( )
+
+
+
+
+package:java.util
+
+
+public class Properties
+extends Hashtable<Object,Object>
+
+
+
+
+
+method:-
+
+1. load(InputStream inStream)
+2. setProperty(String key, String value)
+3. store(Writer writer, String comments)
