@@ -6,13 +6,11 @@ extends Collection
 
 
 
-
 List:-
-
-1.A List is an ordered Collection (also known as a sequence of elements).
-2.which may contain duplicates.
-3.It contains the index-based methods to insert, update, delete and search the elements.
-4.We can also store the null elements in the list.
+   1.A List is an ordered Collection (also known as a sequence of elements).
+   2.which may contain duplicates.
+   3.It contains the index-based methods to insert, update, delete and search the elements.
+   4.We can also store the null elements in the list.
 
 
 
