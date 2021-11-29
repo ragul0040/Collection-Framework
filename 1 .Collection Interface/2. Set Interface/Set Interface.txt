@@ -1,0 +1,17 @@
+Set Interface:-
+
+public interface Set<E>
+extends Collection<E>
+
+
+Set:-
+  1.A Set is a Collection that cannot contain duplicate elements. 
+  2.It models the mathematical set abstraction.
+  3.The Set interface contains only methods inherited from Collection 
+  4.adds the restriction that duplicate elements are prohibited.
+  5.Set also adds a stronger contract on the behavior of the equals and hashCode operations
+  6.An unordered collection or list in which duplicates are not allowed
+
+
+
+
