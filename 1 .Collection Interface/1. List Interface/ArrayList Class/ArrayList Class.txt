@@ -5,28 +5,24 @@ public class ArrayList
 extends AbstractList
 implements List, RandomAccess, Cloneable, Serializable
 
-Package: java.util package
+Package: java.util.ArrayList
 
 
 
 Array list:-
-
-1.ArrayList class uses a dynamic array for storing the elements. 
-2.It is like an array, but there is no size limit.
-3.We can add or remove elements anytime
-4.it is much more flexible than the traditional array.
-5.it contain duplicate elements also
-6.ArrayList maintains the insertion order internally.
-
-
+   1.ArrayList class uses a dynamic array for storing the elements. 
+   2.It is like an array, but there is no size limit.
+   3.We can add or remove elements anytime
+   4.it is much more flexible than the traditional array.
+   5.it contain duplicate elements also
+   6.ArrayList maintains the insertion order internally.
 
 
 
 The important points about Java ArrayList class are::-
-
-1.Java ArrayList class can contain duplicate elements.
-2.Java ArrayList class maintains insertion order.
-3.Java ArrayList class is non synchronized
-4.Java ArrayList allows random access because array works at the index basis.
-5.In ArrayList, manipulation is little bit slower than the LinkedList in Java 
-6.because a lot of shifting needs to occur if any element is removed from the array list.
+   1.Java ArrayList class can contain duplicate elements.
+   2.Java ArrayList class maintains insertion order.
+   3.Java ArrayList class is non synchronized
+   4.Java ArrayList allows random access because array works at the index basis.
+   5.In ArrayList, manipulation is little bit slower than the LinkedList in Java 
+   6.because a lot of shifting needs to occur if any element is removed from the array list.
