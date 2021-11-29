@@ -1,0 +1,14 @@
+LinkedHashSet class:-
+   1.LinkedHashSet class is a Hashtable and Linked list implementation of the set interface.
+
+
+public class LinkedHashSet
+extends HashSet
+implements Set, Cloneable, Serializable
+
+
+The important points about Java LinkedHashSet class are:-
+   1.Java LinkedHashSet class contains unique elements only like HashSet.
+   2.Java LinkedHashSet class provides all optional set operation and permits null elements.
+   3.Java LinkedHashSet class is non synchronized.
+   4.Java LinkedHashSet class maintains insertion order.
