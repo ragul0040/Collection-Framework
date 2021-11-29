@@ -1,0 +1,56 @@
+Interface Collection:-
+
+
+
+public interface Collection
+extends Iterable
+
+
+
+Framework ---> First Interface --->Second Class
+
+
+
+
+
+
+What is Collection in Java
+   1.A Collection represents a single unit of objects,
+
+
+
+What is a framework in Java
+   1.It provides readymade architecture.
+   2.It represents a set of classes and interfaces.
+
+
+
+What is a Java Collection Framework?
+   1.A Java collection framework provides an architecture to store and manipulate a group of objects
+   2.Java Collections can achieve all the operations that you perform on a data such as searching, sorting, insertion, manipulation, and deletion.
+
+
+
+Why use Java collection?
+  1.Reducing the effort required to write the code by providing useful data structures and algorithms
+  2.Java collections provide high-performance and high-quality data structures and algorithms thereby increasing the speed and quality
+
+
+
+
+
+Collection Interface:-
+
+  1.The root interface in the collection hierarchy. 
+  2.A collection represents a group of objects, known as its elements.
+  3.Some collections allow duplicate elements and others do not.
+  4.Some are ordered and others unordered.
+  5.The JDK does not provide any direct implementations of this interface:
+  6.it provides implementations of more specific subinterfaces like Set and List.
+
+
+
+
+
+
+
