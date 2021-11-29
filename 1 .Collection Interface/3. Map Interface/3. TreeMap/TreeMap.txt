@@ -1,0 +1,21 @@
+TreeMap Class:-
+
+
+public class TreeMap
+extends AbstractMap
+implements NavigableMap, Cloneable, Serializable
+
+
+
+TreeMap:-
+   1.TreeMap class is a red-black tree based implementation. 
+   2.It provides an efficient means of storing key-value pairs in sorted order.
+
+
+
+The important points about Java TreeMap class are:-
+   1.TreeMap contains values based on the key. It implements the NavigableMap interface and extends AbstractMap class.
+   2.TreeMap contains only unique elements.
+   3.TreeMap cannot have a null key but can have multiple null values.
+   4.TreeMap is non synchronized.
+   5.TreeMap maintains ascending order.
