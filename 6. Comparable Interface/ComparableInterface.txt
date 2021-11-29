@@ -1,0 +1,21 @@
+Interface Comparable:-
+
+package:-
+    java.lang
+
+public interface Comparable
+     1.Java Comparable interface is used to order the objects of the user-defined class.
+     2.contains only one method named compareTo(Object)
+     3.It provides a single sorting sequence only
+     4.you can sort the elements on the basis of single data member only. 
+     5.For example, it may be rollno, name, age or anything else.
+
+
+
+public int compareTo(Object obj):-
+ -->It is used to compare the current object with the specified object. It returns
+
+    1.positive integer, if the current object is greater than the specified object.
+    2.negative integer, if the current object is less than the specified object.
+    3.zero, if the current object is equal to the specified object.
+
