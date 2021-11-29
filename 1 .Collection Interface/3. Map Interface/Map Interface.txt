@@ -1,0 +1,16 @@
+Map Interface:-
+
+public interface Map
+
+
+Map:-
+   1.A map contains values on the basis of key
+   2.key and value pair 
+   3.Each key and value pair is known as an entry. 
+   4.A Map contains unique keys.
+   5.A Map is useful if you have to search, update or delete elements on the basis of a key.
+
+
+   1.A Map doesn't allow duplicate keys, but you can have duplicate values.  
+   2.HashMap and LinkedHashMap allow null keys and values, but TreeMap doesn't allow any null key or value.
+   3.A Map can't be traversed, so you need to convert it into Set using keySet() or entrySet() method.
