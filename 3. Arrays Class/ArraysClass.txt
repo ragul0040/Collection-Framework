@@ -1,0 +1,22 @@
+Arrays class:-
+   1.Arrays class in java.util package is a part of the Java Collection Framework. 
+   2.This class provides static methods to dynamically create and access Java arrays
+   3.It consists of only static methods and the methods of Object class
+   4.The methods of this class can be used by the class name itself.
+
+
+   1.This class contains various methods for manipulating arrays (such as sorting and searching). 
+   2.This class also contains a static factory that allows arrays to be viewed as lists.
+
+
+
+
+
+Package:-
+    java.lang.Object
+     ↳ java.util.Arrays
+
+
+
+public class Arrays
+extends Object
