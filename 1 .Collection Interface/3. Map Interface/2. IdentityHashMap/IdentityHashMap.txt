@@ -1,0 +1,13 @@
+IdentityHashMap:-
+
+
+
+public class IdentityHashMap
+extends AbstractMap
+implements Map, Serializable, Cloneable
+
+
+
+
+1.The IdentityHashMap class is similar to the HashMap class.
+2.It implements the AbstractMap class. However, it uses reference equality rather than object equality while comparing the key (or values).
