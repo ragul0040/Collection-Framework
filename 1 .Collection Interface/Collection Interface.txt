@@ -1,6 +1,6 @@
 Interface Collection:-
 
-
+package: java.util
 
 public interface Collection
 extends Iterable
@@ -8,8 +8,6 @@ extends Iterable
 
 
 Framework ---> First Interface --->Second Class
-
-
 
 
 
@@ -38,9 +36,7 @@ Why use Java collection?
 
 
 
-
 Collection Interface:-
-
   1.The root interface in the collection hierarchy. 
   2.A collection represents a group of objects, known as its elements.
   3.Some collections allow duplicate elements and others do not.
