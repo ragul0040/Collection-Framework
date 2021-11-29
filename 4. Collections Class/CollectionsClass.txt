@@ -1,0 +1,26 @@
+Collections class:-
+
+package:-
+   java.lang.Object
+   java.util.Collections
+
+
+public class Collections
+extends Object
+
+
+
+What is Collections:-
+   1.collection class is used exclusively with static methods that operate on or return collections. 
+   2.It inherits Object class.
+
+
+
+
+The important points about Java Collections class are:-
+   1.Collection class supports the polymorphic algorithms that operate on collections.
+   2.Collection class throws a NullPointerException if the collections or class objects provided to them are null.
+
+
+
+
