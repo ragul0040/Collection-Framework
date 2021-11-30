@@ -1,0 +1,17 @@
+Generics:-
+   1.The Java Generics programming is introduced in J2SE 5 to deal with type-safe objects.
+   2.It makes the code stable by detecting the bugs at compile time.
+   3.Before generics, we can store any type of objects in the collection, i.e., non-generic.
+   4.Now generics force the java programmer to store a specific type of objects.
+
+
+Advantage of Java Generics:-
+    1) Type-safety: 
+            We can hold only a single type of objects in generics. It doesn?t allow to store other objects.
+
+    2) Type casting is not required:
+           There is no need to typecast the object.
+
+    3) Compile-Time Checking: 
+           i.It is checked at compile time so problem will not occur at runtime.
+          ii.The good programming strategy says it is far better to handle the problem at compile time than runtime.
